@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1591237658387'); /* IE9 */
+  src: url('iconfont.eot?t=1591237658387#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAOwAAsAAAAAB5QAAANkAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqCeIJoATYCJAMMCwgABCAFhG0HPBu0BsiuMSYy1L2IQIuZas5K7rTj2fLV4bvAT980Hv4b63ffzKxq+z+5ZUEbSTTimUMkNC+VkClNNHom77xzb2kz7AhlRu6zHAGnQOnSjNkhuM2duzd5DpAcCXcG3OxaS8cUWsMSTQMsLIx/8YM++HNjGf3XAQsagWEDTizmgAcfVPaTzTA6AZWgyzfd57mcNj08bH3Lcplr4FEvwDiggPbGo4ACLZCAvGHsyot4TKBpngN3rriyEQQpjFWBeKJIfSAoZVdqWkNdqJYcLIiXqKingXyAF/7345+9CIKkkmFsvHKvaBDk/pR/3afmLm67NCjG84IdI2MDUIi7pf7rYJjfADUVvV99bVUR0lipa4YvV43Vlf7xElGF0dwGK7CQ+CnbIoKfNQUJZFBFDU8B7yB7/B4VqSGIkhK0tZd7E0Lj/NiybY0Ii+NDG3kyeaE3FxeScP69l8rtjymwd3MXeP52Y4/j+tf4h6N5PFtcrdjBu+9VcAN2J+0+NvcT2lP/2uCUfPcgeDsukFhWI+NLJ5Lqk4/j/zQ2zrWUXJU4kmBSa5rGrw28qv4LlMDLblVF4l/N/dWzp5Iv+tq11U+74dRQXHIpfGx2Cx/GH+ilHx3vBPLt0rW28rQGVCRja9tMgtW5feMMUHF59Gvh5cvX/FhAqBPCjzc53Vy33dY25P6yLfElsTs3vHhi2z854RqJ1ejX4OcSXCPXRDTARjgd9AKYhXUwARdlG+b8rN/48fGsJyLzfz0a8OXfwehMAe2CQP1WAsGvUbTsK6rKcOQiy225XspO+d+4TVM1+CHtMPSpv3HSuplQN4mR1Mwhq1ugF/YGKloOElV1e2umaV0JPN4yQkFRBLBmGSD03UDS9R5Z30N6YX9ExdRvVPUDoulqxFzYshSKUEBxH8ODqH8cKQPEFC0XE4LWeiwN6300qfK5zZjaSgp5XZ5sqQSbmI6xxR6RfIyJSKTEQMXgOazrBFmUqHiAuWTGrHS3Wyx7kWuAGEBwhsL6MNggpN84RDGAMInucEbIfb4eJhmm60NrSBXxZhhlU8ZHvFw8LeglerMV6Vqo2EZIfBhGhIgowoAUAy+mm3kCscrnqbABjIvcI2tJ50aDxLZ61/xG4/mOQJPRm4MkKIJG49R3OBm2WcA4MSV5GAA=') format('woff2'),
+  url('iconfont.woff?t=1591237658387') format('woff'),
+  url('iconfont.ttf?t=1591237658387') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1591237658387#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icon-test:before {
+  content: "\e60c";
+}
+
+.icon-yonghu:before {
+  content: "\e667";
+}
+
